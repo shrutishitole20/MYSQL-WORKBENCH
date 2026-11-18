@@ -1,0 +1,5 @@
+Open a new query tab in MySQL Workbench and run:
+
+sql
+CREATE DATABASE IF NOT EXISTS lab_scheduler;
+USE lab_scheduler;
